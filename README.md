@@ -7,11 +7,9 @@ I'm a Fullstack Developer, I'm working on ReactJS, NestJS, Rails, PHP - Laravel.
 - 📫 How to reach me: tranhuutrung1408@gmail.com
 - 😄 Pronouns: he/him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranHuuTrung)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **TranHuuTrung/TranHuuTrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranHuuTrung)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
