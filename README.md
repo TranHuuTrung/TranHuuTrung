@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm a Fullstack Developer, I'm working on ReactJS, NestJS, Rails, PHP - Laravel. I also build mobile applications using React Native.
+
+- 🔭 I’m currently working on my health and making customers happy.
+- 🌱 I’m currently living in Vietnam
+- 💬 Ask me about anything
+- 📫 How to reach me: tranhuutrung1408@gmail.com
+- 😄 Pronouns: he/him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranHuuTrung)](https://github.com/anuraghazra/github-readme-stats)
 
