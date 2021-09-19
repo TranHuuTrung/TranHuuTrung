@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm a Fullstack Developer, I'm working on ReactJS, NestJS, Rails, PHP - Laravel. I also build mobile applications using React Native.
 
-- 🔭 I’m currently working on my health and making customers happy.
-- 🌱 I’m currently living in Vietnam
-- 💬 Ask me about anything
-- 📫 How to reach me: tranhuutrung1408@gmail.com
-- 😄 Pronouns: he/him
+- 🔭  I’m currently working on my health and making customers happy.
+- 🌱  I’m currently living in VietNam
+- 💬  Ask me about anything
+- 📫  How to reach me: tranhuutrung1408@gmail.com
+- 😄  Pronouns: he/him
 
 <!--
 **TranHuuTrung/TranHuuTrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
